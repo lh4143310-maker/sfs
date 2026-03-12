@@ -1,7 +1,3 @@
-# 欢迎使用你的秒哒应用代码包
-秒哒应用链接
-    URL:https://www.miaoda.cn/projects/app-9sfsgfuorke9
-
 # 算浮生 - 命理预测小程序 | Taro + React + TypeScript + TailwindCSS + Supabase + AI大模型 + Vibe Coding
 
 ## 项目简介
